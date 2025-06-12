@@ -1,2 +1,2 @@
 # blueprintX
-One stop-shop for Python scaffolding projects
+Blueprints, Extensible - Override default templates, but extensible to your own, no lock-in 
