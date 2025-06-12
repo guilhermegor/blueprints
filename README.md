@@ -1,2 +1,2 @@
 # blueprints
-One stop shop for Python scaffolding projects
+One stop-shop for Python scaffolding projects
